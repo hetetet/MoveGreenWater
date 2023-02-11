@@ -1063,8 +1063,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 474888441}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0, y: 0.0413, z: 1}
-  m_LocalScale: {x: 0.9355723, y: 0.7455827, z: 1}
+  m_LocalPosition: {x: 0.2019, y: 0.0682, z: 1}
+  m_LocalScale: {x: 1.1557084, y: 0.7495343, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -2322,6 +2322,7 @@ MonoBehaviour:
   kanebuck: 0
   tajiribuck: 0
   isStart: 0
+  isTimeTick: 0
   isPaused: 0
   bbam: {fileID: 8300000, guid: 8a6e40d67c107ac44ae1fc9300c2b220, type: 3}
   oong: {fileID: 8300000, guid: cbdec686da25e7d409f41d164016fd86, type: 3}
